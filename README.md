@@ -1,4 +1,4 @@
-# calender-conversion
+# calendar-conversion
 和暦を西暦に変換する
 
 ## Requirements
